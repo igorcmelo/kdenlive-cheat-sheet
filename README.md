@@ -54,4 +54,4 @@
 ## Outras coisas
 | Ação | Como fazer |
 | --- | --- |
-| Resolução do preview | `Monitor` > `Preview Resolution` |
+| Mudar resolução do preview | `Monitor` > `Preview Resolution` |
