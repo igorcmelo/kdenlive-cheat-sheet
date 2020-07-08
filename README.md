@@ -5,8 +5,8 @@
 - ### Audio Mixer 
 > Clique no botão mais a direita da Timeline
 - ### Multitrack View
-> Permite ver todas as faixas de vídeo ao mesmo tempo em formato de grade. <br>`Monitor` > `Multitrack view`
--  
+> Permite ver todas as faixas de vídeo ao mesmo tempo em formato de grade. <br>
+`Monitor` > `Multitrack view`
 # Efeitos
 ## Alpha/Transform
 - ### Corners 
